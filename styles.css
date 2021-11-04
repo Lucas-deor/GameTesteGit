@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #323a42;
 }
 
 #level-title {
@@ -27,24 +27,24 @@ body {
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgb(255, 255, 255);
   opacity: 0.8;
 }
 
 .red {
-  background-color: red;
+  background-color: rgb(182, 76, 76);
 }
 
 .green {
-  background-color: green;
+  background-color: rgb(67, 155, 67);
 }
 
 .blue {
-  background-color: blue;
+  background-color: rgb(78, 78, 179);
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: rgb(153, 153, 76);
 }
 
 .pressed {
